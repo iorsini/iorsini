@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Isadora 👋</h1>
+<h1 align="center">Hey, I'm Isadora! 👋</h1>
 
 <p align="center">
   <i>Cadet at 42 Porto • Passionate about C, problem solving, and programming memes 🧠</i>
@@ -9,7 +9,7 @@
 ### 👨🏼‍💻 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,java,spring,maven,hibernate,csharp,c,python,nodejs,express,mongodb,mysql,docker,git,bash,vim,neovim,linux,postman,intellij,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,vscode" />
 </p>
 
 ---
@@ -19,6 +19,9 @@
 <p align="center">
   <a href="http://www.linkedin.com/in/isadora-barradas" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/iorsini" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -70,7 +73,9 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C05" alt="C05"/>
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <a href="https://github.com/iorsini/C06">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C06" alt="C06"/>
       </a>
@@ -82,11 +87,11 @@
 
 ### 🚀 Milestone 0 — Cadet Life
 
-> ✅ `libft` completed with 💯% — my very first C library, built from scratch with love and `make` 🧵
+> ✅ `libft` completed with 💯% — my first C library, handcrafted from scratch!
 
 <p align="center">
   <a href="https://github.com/iorsini/libft">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150px" alt="coding gif" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1Z3VsejJmOXM5czZyZjJzZGlqdm90Z3B0Y2lhZXRoZDFqd3NvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="220px" alt="libft gif" />
   </a>
 </p>
 
