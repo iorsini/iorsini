@@ -39,51 +39,51 @@
 
 > First dive into C, logic and Unix systems!
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/iorsini/C00">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C00" alt="C00"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iorsini/C01">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C01" alt="C01"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iorsini/C02">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C02" alt="C02"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/iorsini/C03">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C03" alt="C03"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iorsini/C04">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C04" alt="C04"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iorsini/C05">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C05" alt="C05"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <a href="https://github.com/iorsini/C06">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=150&lines=C06" alt="C06"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/iorsini/C00">
+          <span style="font-family: 'Fira Code'; font-size: 16px;">C00</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iorsini/C01">
+          <span style="font-family: 'Fira Code'; font-size: 16px;">C01</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iorsini/C02">
+          <span style="font-family: 'Fira Code'; font-size: 16px;">C02</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/iorsini/C03">
+          <span style="font-family: 'Fira Code'; font-size: 16px;">C03</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iorsini/C04">
+          <span style="font-family: 'Fira Code'; font-size: 16px;">C04</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iorsini/C05">
+          <span style="font-family: 'Fira Code'; font-size: 16px;">C05</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <a href="https://github.com/iorsini/C06">
+          <span style="font-family: 'Fira Code'; font-size: 16px;">C06</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🚀 Milestone 0 — Cadet Life
 
