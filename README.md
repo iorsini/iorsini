@@ -87,12 +87,20 @@
 
 ### 🚀 Milestone 0 — Cadet Life
 
-> ✅ `libft` completed with 💯% — my first C library, handcrafted from scratch!
+> ✅ My first C library, handcrafted from scratch!
 
 <p align="center">
   <a href="https://github.com/iorsini/libft">
-    <img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-6990-6243-bc8a-48a94636dafb/raw?se=2025-06-25T16%3A22%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=45497396-8839-57c6-8ce3-e254fe33d733&skoid=82a3371f-2f6c-4f81-8a78-2701b362559b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-25T05%3A25%3A53Z&ske=2025-06-26T05%3A25%3A53Z&sks=b&skv=2024-08-04&sig=VBnh/neR51givH3M6e6greaM0fQm0xhzOdY8QCSCyGc%3D" width="150"/>
+    <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzj6a9jnexvsktytjxmpcs7t%2F1751883614_img_1.webp?st=2025-07-07T19%3A28%3A04Z&se=2025-07-13T20%3A28%3A04Z&sks=b&skt=2025-07-07T19%3A28%3A04Z&ske=2025-07-13T20%3A28%3A04Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=Br0GjoGfheghuHQ8thjpN2SMO44vFhvMk37YkAOAZDk%3D&az=oaivgprodscus" width="150"/>
   </a>
 </p>
 
+### 🚀 Milestone 1 — Expanding the Core
+> ✅ Projects exploring I/O, memory management, system architecture and Makefiles!
+
+<div align="center"> 
+  <table> <tr> 
+    <td align="center"> <a href="https://github.com/iorsini/ft_printf"> <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzj8rc8hedz94161de3zsezd%2F1751886153_img_1.webp?st=2025-07-07T19%3A09%3A31Z&se=2025-07-13T20%3A09%3A31Z&sks=b&skt=2025-07-07T19%3A09%3A31Z&ske=2025-07-13T20%3A09%3A31Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=4X5m5S7IEw8Em5NwiQt%2F9%2B0NLDryWmC6FOqZYIoJHrs%3D&az=oaivgprodscus" width="150" alt="ft_printf"/> <br /> <strong>ft_printf</strong> </a> </td> 
+    <td align="center"> <a href="https://github.com/iorsini/get_next_line"> <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzjqer30f43rpxtztw8z0skb%2F1751901583_img_1.webp?st=2025-07-07T19%3A29%3A54Z&se=2025-07-13T20%3A29%3A54Z&sks=b&skt=2025-07-07T19%3A29%3A54Z&ske=2025-07-13T20%3A29%3A54Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=3W2zdO%2FGz0ZlB73p9qgMJEJekisQmjvViyK%2FZub50bg%3D&az=oaivgprodscus" width="150" alt="get_next_line"/> <br /> <strong>get_next_line</strong> </a> </td> 
+    <td align="center"> <a <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzjqpya7e03rr574ht8bb07z%2F1751901862_img_0.webp?st=2025-07-07T19%3A29%3A54Z&se=2025-07-13T20%3A29%3A54Z&sks=b&skt=2025-07-07T19%3A29%3A54Z&ske=2025-07-13T20%3A29%3A54Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=9Ck7%2FLS6HFoqcyg%2BPXMw%2BdYg0D2QTHos6yTJSnHxayQ%3D&az=oaivgprodscus" width="150" alt="Born2beRoot"/> <br /> <strong>Born2beRoot</strong> </a> </td> </tr> </table> </div>
 ---
