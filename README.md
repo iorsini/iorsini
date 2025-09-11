@@ -89,11 +89,19 @@
 
 > ✅ My first C library, handcrafted from scratch!
 
-<p align="center">
-  <a href="https://github.com/iorsini/libft">
-    <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01k4w7m5btf4g9vz6fvg9a57nr%2F1757589246_img_0.webp?st=2025-09-11T09%3A58%3A02Z&se=2025-09-17T10%3A58%3A02Z&sks=b&skt=2025-09-11T09%3A58%3A02Z&ske=2025-09-17T10%3A58%3A02Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=cfbc986b-d2bc-4088-8b71-4f962129715b&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=fg0oBjIIOIfz%2B%2BbDVfNkA6saUaBJLtBN%2FvuHEDKwfFo%3D&az=oaivgprodscus" width="150"/>
-  </a>
-</p>
+<div align="center"> 
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/iorsini/libft" target="_blank">
+          <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01k4w7m5btf4g9vz6fvg9a57nr%2F1757589246_img_0.webp?st=2025-09-11T09%3A58%3A02Z&se=2025-09-17T10%3A58%3A02Z&sks=b&skt=2025-09-11T09%3A58%3A02Z&ske=2025-09-17T10%3A58%3A02Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=cfbc986b-d2bc-4088-8b71-4f962129715b&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=fg0oBjIIOIfz%2B%2BbDVfNkA6saUaBJLtBN%2FvuHEDKwfFo%3D&az=oaivgprodscus" width="150" alt="libft"/>
+          <br />
+          <strong>libft</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🚀 Milestone 1 — Expanding the Core
 > ✅ Projects exploring I/O, memory management, system architecture and Makefiles!
