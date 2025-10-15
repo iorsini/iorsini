@@ -9,7 +9,7 @@
 ### 👨🏼‍💻 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,vscode,html,css,javascript,github,figma" />
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,vscode,html,css,javascript,express,nextjs,mongodb,github,figma" />
 </p>
 
 ---
